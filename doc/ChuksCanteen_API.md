@@ -1,4 +1,4 @@
-BASE_URL: http://localhost:3005/api/v1
+BASE_URL: https://chukscanteen.onrender.com/api/v1
 
 AUTHENTICATION
 - Headers:
